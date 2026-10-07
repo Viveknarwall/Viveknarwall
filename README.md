@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Vivek Narwal
 
-<!--
-**Viveknarwall/Viveknarwall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python • SQL • Excel • Power BI
 
-Here are some ideas to get you started:
+I'm learning Data Analytics and building my skills through practical learning, problem-solving, and projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- 🐍 Python
+- 🐼 Pandas & NumPy
+- 🗄️ SQL & PostgreSQL
+- 📊 Statistics
+- 📈 Data Visualization
+- 📗 Excel
+- 📊 Power BI & DAX
+
+---
+
+## 🎯 Currently Learning
+
+- Data Analytics
+- SQL Problem Solving
+- Data Analysis with Python
+- Building practical projects
+
+---
+
+## 📚 My Learning Approach
+
+> Learn → Practice → Build → Improve
+
+---
+
+## 📫 Connect With Me
+
+[GitHub](https://github.com/Viveknarwall)
