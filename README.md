@@ -73,15 +73,3 @@ Always curious, always experimenting, and always looking for better ways to unde
 
 **Turning data into insights. Turning insights into decisions. 📊**
 
-
-## 📚 Learning
-
-```text
-Data Analytics
-    ├── Python
-    ├── NumPy & Pandas
-    ├── Statistics
-    ├── Data Visualization
-    ├── SQL & PostgreSQL
-    ├── Excel
-    └── Power BI & DAX
