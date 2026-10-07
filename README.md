@@ -59,22 +59,22 @@ problem-solving, data analysis, and continuous learning.
 
 ---
 
-## 🚀 Featured Project
+## 🎯 My Approach
 
-### 🏪 Smart Inventory & Billing System
+> **Understand the data → Find the story → Communicate the insight**
 
-A Python + PostgreSQL based inventory and billing application with a
-Streamlit interface.
-
-**Tech Stack:**
-
-`Python` `PostgreSQL` `SQL` `OOP` `Pandas` `Matplotlib` `Streamlit`
-
-🔗 **[View Project →](https://github.com/Viveknarwall/smart-inventory-billing)**
+I focus on building a strong combination of **technical skills, analytical thinking, and business understanding** — with an emphasis on practical projects rather than just theoretical learning.
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Beyond the Code
+
+Always curious, always experimenting, and always looking for better ways to understand and communicate data.
+
+**Turning data into insights. Turning insights into decisions. 📊**
+
+
+## 📚 Learning
 
 ```text
 Data Analytics
