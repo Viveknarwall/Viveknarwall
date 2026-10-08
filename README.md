@@ -5,6 +5,12 @@
 I’m learning **Data Analytics** and building my skills through practical projects,
 problem-solving, data analysis, and continuous learning.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/viveknarwal" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Skills & Technologies
@@ -72,4 +78,3 @@ I focus on building a strong combination of **technical skills, analytical think
 Always curious, always experimenting, and always looking for better ways to understand and communicate data.
 
 **Turning data into insights. Turning insights into decisions. 📊**
-
