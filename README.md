@@ -6,7 +6,7 @@ I’m learning **Data Analytics** and building my skills through practical proje
 problem-solving, data analysis, and continuous learning.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/viveknarwal" target="_blank">
+  <a href="https://www.linkedin.com/in/viveknarwall" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
